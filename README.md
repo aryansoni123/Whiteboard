@@ -21,7 +21,7 @@ This project is a **Virtual Whiteboard** that allows users to draw, erase, and c
 
 ## 📂 Project Structure
 ```
-📂 Virtual-Whiteboard
+📂 Whiteboard
 │── 📜 Project.py       # Main Python script
 │── 📜 README.md        # Documentation file
 ```
