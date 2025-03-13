@@ -3,12 +3,12 @@
 ## 📌 Project Overview
 This project is a **Virtual Whiteboard** that allows users to draw, erase, and change colors using **hand gestures**. It utilizes **MediaPipe** for hand tracking and **OpenCV** for real-time video processing.
 
----
+<!---
 
 ## 🎥 Demo
 (Add a GIF or Screenshot of the application in action)
 
----
+--->
 
 ## 🛠 Features
 ✔️ **Hand Gesture-Based Drawing** - Use finger gestures to draw on the virtual whiteboard.
