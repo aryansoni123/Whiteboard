@@ -14,7 +14,6 @@ canvas = np.zeros((480, 640, 3), dtype=np.uint8)
 pen_color = (255, 0, 0)  # Default: blue
 pen_thickness = 5        # Default thickness
 eraser_thickness = 70
-small_eraser_thickness = 15
 
 # Variable to store the previous drawing point for smooth lines
 previous_point = None  
