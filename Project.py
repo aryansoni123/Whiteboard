@@ -6,6 +6,7 @@ import numpy as np
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
+
 # Initialize video capture and set up canvas
 cap = cv2.VideoCapture(0)
 canvas = np.zeros((480, 640, 3), dtype=np.uint8)
