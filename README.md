@@ -11,11 +11,11 @@ This project is a **Virtual Whiteboard** that allows users to draw, erase, and c
 --->
 
 ## 🛠 Features
-✔️ **Hand Gesture-Based Drawing** - Use finger gestures to draw on the virtual whiteboard.
-✔️ **Color Changing** - Change pen color using specific finger gestures.
-✔️ **Eraser Mode** - Use gestures to erase parts of the canvas.
-✔️ **Clear Canvas** - Press 'C' to reset the whiteboard.
-✔️ **Exit the Program** - Press 'Q' to quit.
+- ✔️ **Hand Gesture-Based Drawing** - Use finger gestures to draw on the virtual whiteboard.
+- ✔️ **Color Changing** - Change pen color using specific finger gestures.
+- ✔️ **Eraser Mode** - Use gestures to erase parts of the canvas.
+- ✔️ **Clear Canvas** - Press 'C' to reset the whiteboard.
+- ✔️ **Exit the Program** - Press 'Q' to quit.
 
 ---
 
